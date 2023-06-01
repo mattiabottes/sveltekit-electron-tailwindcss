@@ -7,3 +7,7 @@ Super-inspired by Sveltekit + Electron by @FractalHQ: https://github.com/Fractal
 <br />
 
 ## Getting Started
+
+`git clone https://github.com/mattiabottes/sveltekit-electron-tailwindcss [name-of-your-project]`
+`cd [name-of-your-project]`
+`npm install`
